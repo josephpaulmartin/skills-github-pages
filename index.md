@@ -1,5 +1,3 @@
-title: Welcome to my blog
-
 # Cyclists
 
 We'll give some information about cyclists.
